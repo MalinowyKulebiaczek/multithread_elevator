@@ -4,3 +4,4 @@ Simple simulator of elevator using multithreading in java. Passengers are genera
 ## Results
 ![result](https://github.com/MalinowyKulebiaczek/multithread_elevator/img/img1.png "result")
 
+![res1](img/img1.png)
