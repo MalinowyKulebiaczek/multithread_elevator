@@ -33,7 +33,7 @@ public class Zadanie3 {
 	 * @throws InterruptedException 
 	 */
 	public static void main(String[] args) throws InterruptedException {
-		int F=5;		//liczba pieter
+		int F=7;		//liczba pieter
 		int t=1500; 	//czas przemieszczania sie windy miedzy jednym a drugim pietrem
 		int p=70;		//prawdopodobienstwo pojawienia sie pasazera (podawane w procentach 0 - 100%)
 		
